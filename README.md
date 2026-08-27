@@ -12,6 +12,8 @@ there is **no** audio output. the device is intentionally focused on the visual 
 - [ ] add some pics
 - [x] finish final code from arduino IDE
 - [ ] upload final code from arduino IDE
+- [ ] upload hardware scheme
+- [x] upload ESP32 to display connection table
 - [ ] implement youtube integration
 - [ ] maybe a crt-style rendering to experiment. and for my inner kid
 - [ ] print final enclosure and upload the file for it
