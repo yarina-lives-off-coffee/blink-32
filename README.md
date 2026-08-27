@@ -1,6 +1,6 @@
 # blink-32 📺
 a small ESP32-S3 and TFT-SPI display project to play whatever you're watching but on a cuter screen. 
-the casing is a tiny pocket-sized retro TV (3D Printed) designed to recreate the look and feel of portable media players of the past. 
+the casing is a tiny pocket-sized retro TV (3D Printed) designed to recreate the look and feel of portable media players of the past. first prototyped in Wokwi.
 connects directly to your laptop/PC through USB-C.
 
 there is **no** audio output. the device is intentionally focused on the visual experience and not being sensory overload for me. the same reason it has adjustable luminosity btw. i'd like to say i started this to combine several areas of special interest (embedded systems, electronics, old graphics and any retro tech really, so on) but i also mostly enjoy having a tiny fake tv on my desk that looks like the screens i played games on as a child. how convoluted the path of nostalgia can get.
@@ -12,7 +12,7 @@ there is **no** audio output. the device is intentionally focused on the visual 
 - [ ] add some pics
 - [x] finish final code from arduino IDE
 - [ ] upload final code from arduino IDE
-- [ ] upload hardware scheme
+- [x] upload hardware scheme
 - [x] upload ESP32 to display connection table
 - [ ] implement youtube integration
 - [ ] maybe a crt-style rendering to experiment. and for my inner kid
@@ -34,6 +34,9 @@ n-channel MOSFET | electronic switching and PWM control of display/backlight. ad
 slide switch | ON/OFF
 
 i soldered everything with flux core wire
+
+<img width="755" height="525" alt="image" src="https://github.com/user-attachments/assets/01e154b2-602c-4eb3-9b1d-2dcd87cf9a6b" />
+
 
 ## the deets
 **controls:**
