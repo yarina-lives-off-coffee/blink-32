@@ -31,8 +31,10 @@ USB cable | programming and power
 n-channel MOSFET | electronic switching and PWM control of display/backlight. adjustable luminosity
 slide switch | ON/OFF
 
+i soldered everything with flux core wire
+
 ## the deets
-**controls**
+**controls:**
 for extremely serious engineering purposes, the three buttons are referred to in code as BUTT 1, BUTT 2, and BUTT 3 respectively.
 one is for increasing luminosity. one for decreasing. one for good measure, to extend in the future with other ideas i have in mind.
 
